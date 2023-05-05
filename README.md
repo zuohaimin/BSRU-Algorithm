@@ -2,7 +2,7 @@
 Semi-Supervised regression algorithm
 
 
-# run script
+run script
 ```
 python main.py
 ```
